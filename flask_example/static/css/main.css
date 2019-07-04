@@ -1,0 +1,10 @@
+body { 
+    padding-top: 100px; 
+}
+.carousel-inner {
+	height: 300px;
+}
+div.carousel-caption {
+	font-size: 60px;
+	top: 20px;
+}
